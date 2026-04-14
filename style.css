@@ -96,4 +96,7 @@ footer {
   table, form {
     font-size: 10px;
   }
+  footer {
+    position: relative;
+  }
 }
